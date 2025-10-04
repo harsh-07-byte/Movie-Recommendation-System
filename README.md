@@ -1,2 +1,1 @@
-Built a content-based movie recommender using bag-of-words and cosine similarity on film metadata. 
-Implemented a metadata-driven movie recommendation engine using BoW text features and cosine-similarity scoring.
+Built a content-based movie recommender using bag-of-words and cosine similarity on film metadata. Implemented a metadata-driven movie recommendation engine using BoW text features and cosine-similarity scoring.
